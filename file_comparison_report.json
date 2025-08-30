@@ -1,0 +1,1471 @@
+{
+  "summary": {
+    "comparison_date": "2025-08-30",
+    "windows_source": "C:\\Users\\mommgre.ITAU\\workspace\\fsplit\\ccparts",
+    "macos_source": "/Users/gregoriomomm/workspace/_demo_itau/poc_cc/ccparts",
+    "total_common_files": 69,
+    "identical_files": 0,
+    "corrupted_files": 69,
+    "size_mismatches": 0,
+    "corruption_rate": "100.0%",
+    "corrupted_parts": [
+      "cc.7z.part000",
+      "cc.7z.part001",
+      "cc.7z.part002",
+      "cc.7z.part003",
+      "cc.7z.part004",
+      "cc.7z.part005",
+      "cc.7z.part006",
+      "cc.7z.part007",
+      "cc.7z.part008",
+      "cc.7z.part009",
+      "cc.7z.part010",
+      "cc.7z.part011",
+      "cc.7z.part012",
+      "cc.7z.part013",
+      "cc.7z.part014",
+      "cc.7z.part015",
+      "cc.7z.part016",
+      "cc.7z.part017",
+      "cc.7z.part018",
+      "cc.7z.part019",
+      "cc.7z.part020",
+      "cc.7z.part021",
+      "cc.7z.part022",
+      "cc.7z.part023",
+      "cc.7z.part024",
+      "cc.7z.part025",
+      "cc.7z.part026",
+      "cc.7z.part027",
+      "cc.7z.part028",
+      "cc.7z.part029",
+      "cc.7z.part030",
+      "cc.7z.part031",
+      "cc.7z.part032",
+      "cc.7z.part033",
+      "cc.7z.part034",
+      "cc.7z.part035",
+      "cc.7z.part036",
+      "cc.7z.part037",
+      "cc.7z.part038",
+      "cc.7z.part039",
+      "cc.7z.part040",
+      "cc.7z.part041",
+      "cc.7z.part042",
+      "cc.7z.part043",
+      "cc.7z.part044",
+      "cc.7z.part045",
+      "cc.7z.part046",
+      "cc.7z.part047",
+      "cc.7z.part048",
+      "cc.7z.part049",
+      "cc.7z.part050",
+      "cc.7z.part051",
+      "cc.7z.part052",
+      "cc.7z.part053",
+      "cc.7z.part054",
+      "cc.7z.part055",
+      "cc.7z.part056",
+      "cc.7z.part057",
+      "cc.7z.part058",
+      "cc.7z.part059",
+      "cc.7z.part060",
+      "cc.7z.part061",
+      "cc.7z.part062",
+      "cc.7z.part063",
+      "cc.7z.part064",
+      "cc.7z.part065",
+      "cc.7z.part066",
+      "cc.7z.part067",
+      "cc.7z.part068"
+    ],
+    "size_mismatch_parts": []
+  },
+  "corrupted_files": [
+    {
+      "part": "cc.7z.part000",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "66ede52",
+        "md5": "cb4d52b350d222ccfedbb2a3f9c43b40",
+        "sha256": "6cea2c91546fb3fb507ab9b6d61ff85b1dd3271fa10eeab80d819cd877bea73c",
+        "crc32": "2ed00e51"
+      },
+      "macos_checksums": {
+        "qr": "1f10kd1",
+        "md5": "cb4d52b350d222ccfedbb2a3f9c43b40",
+        "sha256": "6cea2c91546fb3fb507ab9b6d61ff85b1dd3271fa10eeab80d819cd877bea73c",
+        "crc32": "2ed00e51"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part001",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "f871057",
+        "md5": "b8130718ff4a72445aac5fbef87806ed",
+        "sha256": "9c8960d54f0185f35e73d02455cf223a6e49f9b252dd25eed1abbcb094e5ec25",
+        "crc32": "f048ea02"
+      },
+      "macos_checksums": {
+        "qr": "1rfuamk",
+        "md5": "b8130718ff4a72445aac5fbef87806ed",
+        "sha256": "9c8960d54f0185f35e73d02455cf223a6e49f9b252dd25eed1abbcb094e5ec25",
+        "crc32": "f048ea02"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part002",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "8d2ebf3c",
+        "md5": "475b6c55cc1d4876937aa9e62a1ff112",
+        "sha256": "fa181ae41384406808cf308adc7a90b4271475bcf4d9413aa6f2e91e033dd5f0",
+        "crc32": "4d4d8128"
+      },
+      "macos_checksums": {
+        "qr": "1qt4li7",
+        "md5": "475b6c55cc1d4876937aa9e62a1ff112",
+        "sha256": "fa181ae41384406808cf308adc7a90b4271475bcf4d9413aa6f2e91e033dd5f0",
+        "crc32": "4d4d8128"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part003",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "847dfbe7",
+        "md5": "440117f0ab262833822f08bb93cb2f7f",
+        "sha256": "d882cdbbfc5fbe93ab19009b7d830a9ebfb15cf742d82ae945d4b0c7f660efdb",
+        "crc32": "889bb381"
+      },
+      "macos_checksums": {
+        "qr": "1g9l1a8",
+        "md5": "440117f0ab262833822f08bb93cb2f7f",
+        "sha256": "d882cdbbfc5fbe93ab19009b7d830a9ebfb15cf742d82ae945d4b0c7f660efdb",
+        "crc32": "889bb381"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part004",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "74d9d4c2",
+        "md5": "5f88cbc7213cb53f8d2412624a639118",
+        "sha256": "dc570e920a78c403a411819df5edbc94d3ec53b70caab16d5867b1793b386a9b",
+        "crc32": "1c25ab46"
+      },
+      "macos_checksums": {
+        "qr": "1506x4l",
+        "md5": "5f88cbc7213cb53f8d2412624a639118",
+        "sha256": "dc570e920a78c403a411819df5edbc94d3ec53b70caab16d5867b1793b386a9b",
+        "crc32": "1c25ab46"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part005",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "a4c99547",
+        "md5": "81f523b16830c35f8cd4ff9afc3a2bd4",
+        "sha256": "5c7867009cb801f147d598b2ed7be8f8a28e1930becf82df3102993b648af275",
+        "crc32": "9c856e3a"
+      },
+      "macos_checksums": {
+        "qr": "1ftic7a",
+        "md5": "b3fdf1729e7c1a40fd499be8ae68cad5",
+        "sha256": "4041e7131e78683adbe17cf9f5e91dd3610cdec6b573b32373f6ea5162fe18c7",
+        "crc32": "79b6d7f4"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a",
+        "md5",
+        "sha256",
+        "crc32"
+      ]
+    },
+    {
+      "part": "cc.7z.part006",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "a5e532c2",
+        "md5": "30710829ecf15039107259b41ac16539",
+        "sha256": "842f8736e0be91f66534fb8ffcd6fc879463646b2dd3f2aae3aa2199abbab960",
+        "crc32": "cac4bc88"
+      },
+      "macos_checksums": {
+        "qr": "ef5kr5",
+        "md5": "30710829ecf15039107259b41ac16539",
+        "sha256": "842f8736e0be91f66534fb8ffcd6fc879463646b2dd3f2aae3aa2199abbab960",
+        "crc32": "cac4bc88"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part007",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "4e923213",
+        "md5": "b48a9d630a07e93e58c1bfd53753bdcd",
+        "sha256": "9255eecb6b9de073e09bb08737e4d904b85accde60480e4a88c5d75e1d36b5d6",
+        "crc32": "ca246183"
+      },
+      "macos_checksums": {
+        "qr": "1pp2t4m",
+        "md5": "b48a9d630a07e93e58c1bfd53753bdcd",
+        "sha256": "9255eecb6b9de073e09bb08737e4d904b85accde60480e4a88c5d75e1d36b5d6",
+        "crc32": "ca246183"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part008",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "6767b0f6",
+        "md5": "8b481d989cfdacf0150c1b7a2de11107",
+        "sha256": "0640d6d80189fd53324bc45177a96b531bcad273ab466077c0356b3ec8a1002c",
+        "crc32": "b7ffbf04"
+      },
+      "macos_checksums": {
+        "qr": "5slfc3",
+        "md5": "8b481d989cfdacf0150c1b7a2de11107",
+        "sha256": "0640d6d80189fd53324bc45177a96b531bcad273ab466077c0356b3ec8a1002c",
+        "crc32": "b7ffbf04"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part009",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "66d811de",
+        "md5": "fd74173ac7770bfbb37e0a01e5982210",
+        "sha256": "7c70a5929aaa7211843316572c45b09b896e8947e6e47347d1c9f24bf410998e",
+        "crc32": "25876064"
+      },
+      "macos_checksums": {
+        "qr": "1yfb1yn",
+        "md5": "fd74173ac7770bfbb37e0a01e5982210",
+        "sha256": "7c70a5929aaa7211843316572c45b09b896e8947e6e47347d1c9f24bf410998e",
+        "crc32": "25876064"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part010",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "49e0b510",
+        "md5": "09f71860dd2ba30385591d5894091a27",
+        "sha256": "080a07bd560d8920be1c4afc48f0f11fb24f570f48d07d5cc728216d21825c03",
+        "crc32": "bd2f5e6f"
+      },
+      "macos_checksums": {
+        "qr": "7yjvz1",
+        "md5": "09f71860dd2ba30385591d5894091a27",
+        "sha256": "080a07bd560d8920be1c4afc48f0f11fb24f570f48d07d5cc728216d21825c03",
+        "crc32": "bd2f5e6f"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part011",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "c61fae5",
+        "md5": "53d9576fda79a713de956ed5f1ed8b86",
+        "sha256": "d24ec2534fc257bc820b83e6c9f120492859fd4d189be0d4a08571c54f828eb6",
+        "crc32": "aaa609a6"
+      },
+      "macos_checksums": {
+        "qr": "1w3qnp6",
+        "md5": "53d9576fda79a713de956ed5f1ed8b86",
+        "sha256": "d24ec2534fc257bc820b83e6c9f120492859fd4d189be0d4a08571c54f828eb6",
+        "crc32": "aaa609a6"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part012",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "e099d010",
+        "md5": "66c7efc0cf59df755b31abfd98e4df90",
+        "sha256": "f4b7058bbdd538317e351cd10cb97b43245e5762e8aa32c30085f901ba552957",
+        "crc32": "15894ec5"
+      },
+      "macos_checksums": {
+        "qr": "sls75j",
+        "md5": "66c7efc0cf59df755b31abfd98e4df90",
+        "sha256": "f4b7058bbdd538317e351cd10cb97b43245e5762e8aa32c30085f901ba552957",
+        "crc32": "15894ec5"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part013",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "9c65725",
+        "md5": "485b5e2d0b68017c0bf211f7bfc92e89",
+        "sha256": "68952fb7fc2e4587d4caa311764ef68c4900c307d89ce8338a27662bc366f022",
+        "crc32": "dc3e851e"
+      },
+      "macos_checksums": {
+        "qr": "d3mpys",
+        "md5": "485b5e2d0b68017c0bf211f7bfc92e89",
+        "sha256": "68952fb7fc2e4587d4caa311764ef68c4900c307d89ce8338a27662bc366f022",
+        "crc32": "dc3e851e"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part014",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "20f8deb6",
+        "md5": "ea6c7851f2de820a41a5336dda443c84",
+        "sha256": "93173e81350f73d3e1028514024a82e4066d43f24e66a5dd73ab4a28d5125108",
+        "crc32": "a4a993a8"
+      },
+      "macos_checksums": {
+        "qr": "bznxw9",
+        "md5": "ea6c7851f2de820a41a5336dda443c84",
+        "sha256": "93173e81350f73d3e1028514024a82e4066d43f24e66a5dd73ab4a28d5125108",
+        "crc32": "a4a993a8"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part015",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "974acc42",
+        "md5": "4083a253a9f0edb2cb8c7fcb576b7ca3",
+        "sha256": "aaac978a19ff2129190744794f0bc4366aaf5e728c61955c53e3a5752022c7b8",
+        "crc32": "4b4faf2b"
+      },
+      "macos_checksums": {
+        "qr": "1umyg6n",
+        "md5": "4083a253a9f0edb2cb8c7fcb576b7ca3",
+        "sha256": "aaac978a19ff2129190744794f0bc4366aaf5e728c61955c53e3a5752022c7b8",
+        "crc32": "4b4faf2b"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part016",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "3ecc6860",
+        "md5": "056c0751c7773ff1764a3951e3ed5ca2",
+        "sha256": "b17fbcfaa96b3a89b5d2b4f8db5a2411825420712f755b1453a9589529b772a6",
+        "crc32": "b54f5b14"
+      },
+      "macos_checksums": {
+        "qr": "w7ji2p",
+        "md5": "056c0751c7773ff1764a3951e3ed5ca2",
+        "sha256": "b17fbcfaa96b3a89b5d2b4f8db5a2411825420712f755b1453a9589529b772a6",
+        "crc32": "b54f5b14"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part017",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "1771e158",
+        "md5": "98b1f18b32a30ec17f4beaf520ba6d93",
+        "sha256": "ca09e6973be948d5855956f93e4440b30f50bcbc23511669ddef74814de5db7f",
+        "crc32": "09c426a2"
+      },
+      "macos_checksums": {
+        "qr": "a2tdx1",
+        "md5": "98b1f18b32a30ec17f4beaf520ba6d93",
+        "sha256": "ca09e6973be948d5855956f93e4440b30f50bcbc23511669ddef74814de5db7f",
+        "crc32": "09c426a2"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part018",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "dce49c62",
+        "md5": "882eb9cb76cbfcb430ddd0b1af710908",
+        "sha256": "32e4e2bb76afdb25d3a63f7cf8ccc8b7faad3a950cfb8e24f0c4e83ce8d02e78",
+        "crc32": "1a6ea3a9"
+      },
+      "macos_checksums": {
+        "qr": "1j9xpn",
+        "md5": "882eb9cb76cbfcb430ddd0b1af710908",
+        "sha256": "32e4e2bb76afdb25d3a63f7cf8ccc8b7faad3a950cfb8e24f0c4e83ce8d02e78",
+        "crc32": "1a6ea3a9"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part019",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "f7731002",
+        "md5": "31d25285e5339f5495a4234507f59308",
+        "sha256": "e2bbee8fe2a5d3efe062c5e64cb4b5d2b1f9044b5c0eeafa8c2d5a02f0b80256",
+        "crc32": "90323207"
+      },
+      "macos_checksums": {
+        "qr": "tbpm35",
+        "md5": "31d25285e5339f5495a4234507f59308",
+        "sha256": "e2bbee8fe2a5d3efe062c5e64cb4b5d2b1f9044b5c0eeafa8c2d5a02f0b80256",
+        "crc32": "90323207"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part020",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "2eede3f3",
+        "md5": "d46208c1223190be31d6e5986b666773",
+        "sha256": "8e0a64b2c1d81891f4acffc17d2f4cd97be55d903b5906c2451efb37094595bf",
+        "crc32": "657d01c3"
+      },
+      "macos_checksums": {
+        "qr": "115hmca",
+        "md5": "d46208c1223190be31d6e5986b666773",
+        "sha256": "8e0a64b2c1d81891f4acffc17d2f4cd97be55d903b5906c2451efb37094595bf",
+        "crc32": "657d01c3"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part021",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "9cb7bdce",
+        "md5": "0a0b2067460a70f41acc70ba0fc595b0",
+        "sha256": "31f4c5dd6a6c6a07ce45491b80e978fc4adcd9b270aff288435c14586e8c0882",
+        "crc32": "9aa80229"
+      },
+      "macos_checksums": {
+        "qr": "njm945",
+        "md5": "0a0b2067460a70f41acc70ba0fc595b0",
+        "sha256": "31f4c5dd6a6c6a07ce45491b80e978fc4adcd9b270aff288435c14586e8c0882",
+        "crc32": "9aa80229"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part022",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "696d1316",
+        "md5": "507a24a726499eac0748e6b2e4a40a9b",
+        "sha256": "0ec37c86f8c81ec6eabfe36ea09d7229aff687b03b64d93fc2e74e756a7528ac",
+        "crc32": "651642fa"
+      },
+      "macos_checksums": {
+        "qr": "1mn0575",
+        "md5": "507a24a726499eac0748e6b2e4a40a9b",
+        "sha256": "0ec37c86f8c81ec6eabfe36ea09d7229aff687b03b64d93fc2e74e756a7528ac",
+        "crc32": "651642fa"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part023",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "76eabacf",
+        "md5": "6251b8541a169daa2153aebdcd91cf82",
+        "sha256": "5cab4f82053c694fa80f9f481609bae174886b056dd2ed304316732890c52583",
+        "crc32": "bb7d9709"
+      },
+      "macos_checksums": {
+        "qr": "nhhd6s",
+        "md5": "6251b8541a169daa2153aebdcd91cf82",
+        "sha256": "5cab4f82053c694fa80f9f481609bae174886b056dd2ed304316732890c52583",
+        "crc32": "bb7d9709"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part024",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "e7cbbf03",
+        "md5": "d611d059747c9dbff240f9a29e8a140d",
+        "sha256": "d72bace69c5536ea36640b3ae2cec28c43317da18202c06b03bc94bd3d9aaafc",
+        "crc32": "54f72565"
+      },
+      "macos_checksums": {
+        "qr": "1yab4zo",
+        "md5": "d611d059747c9dbff240f9a29e8a140d",
+        "sha256": "d72bace69c5536ea36640b3ae2cec28c43317da18202c06b03bc94bd3d9aaafc",
+        "crc32": "54f72565"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part025",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "c7ba810",
+        "md5": "a1d779486644635559e276d2c59b7d33",
+        "sha256": "3d5fee79540950d6f7f68ee171741ea446977e6e2047b6661634c6457ceaaf1e",
+        "crc32": "91963f18"
+      },
+      "macos_checksums": {
+        "qr": "1gci28x",
+        "md5": "a1d779486644635559e276d2c59b7d33",
+        "sha256": "3d5fee79540950d6f7f68ee171741ea446977e6e2047b6661634c6457ceaaf1e",
+        "crc32": "91963f18"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part026",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "a7320ee2",
+        "md5": "c6fa3c628e6f54102dbd65ff8ecf2b07",
+        "sha256": "b802b752253094117d7802642c40895bcff38f33203af360916beb577ef372a4",
+        "crc32": "55c85e89"
+      },
+      "macos_checksums": {
+        "qr": "102gs4h",
+        "md5": "c6fa3c628e6f54102dbd65ff8ecf2b07",
+        "sha256": "b802b752253094117d7802642c40895bcff38f33203af360916beb577ef372a4",
+        "crc32": "55c85e89"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part027",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "d9e8572c",
+        "md5": "0dc2d233738c4e0138d000ed96f76f59",
+        "sha256": "222ff89ce2011ace5fce59bdd745c0e09564230c2246f1fe3f12dc0e2dfaf09d",
+        "crc32": "7efd7e2a"
+      },
+      "macos_checksums": {
+        "qr": "1e1hm49",
+        "md5": "0dc2d233738c4e0138d000ed96f76f59",
+        "sha256": "222ff89ce2011ace5fce59bdd745c0e09564230c2246f1fe3f12dc0e2dfaf09d",
+        "crc32": "7efd7e2a"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part028",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "a6b0feb5",
+        "md5": "1d05a9f33b2c55cc462322a0a6a6c98f",
+        "sha256": "7fe874d48122f6a853124e286d70d31e4403453e71d3540b9137ce3343942f14",
+        "crc32": "3d711962"
+      },
+      "macos_checksums": {
+        "qr": "kv8u62",
+        "md5": "1d05a9f33b2c55cc462322a0a6a6c98f",
+        "sha256": "7fe874d48122f6a853124e286d70d31e4403453e71d3540b9137ce3343942f14",
+        "crc32": "3d711962"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part029",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "a5deff79",
+        "md5": "e77e5bc0311203bf9ce17894825d30ac",
+        "sha256": "1d012c32ae1fc0784486c9eebf87ea2750b1964d14f1425e993d2fa8766860aa",
+        "crc32": "35bf2498"
+      },
+      "macos_checksums": {
+        "qr": "14uzhv2",
+        "md5": "e77e5bc0311203bf9ce17894825d30ac",
+        "sha256": "1d012c32ae1fc0784486c9eebf87ea2750b1964d14f1425e993d2fa8766860aa",
+        "crc32": "35bf2498"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part030",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "e7716783",
+        "md5": "6a77346157771c5820a1e49ce855e68a",
+        "sha256": "879941fb4247c29311b3623bfa2f6c8d1155fdc2d40782ab4d09a73accc57d75",
+        "crc32": "7813545b"
+      },
+      "macos_checksums": {
+        "qr": "6818pw",
+        "md5": "6a77346157771c5820a1e49ce855e68a",
+        "sha256": "879941fb4247c29311b3623bfa2f6c8d1155fdc2d40782ab4d09a73accc57d75",
+        "crc32": "7813545b"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part031",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "c4980518",
+        "md5": "ab6d0f7e62c5aa74a07212af1386e8d0",
+        "sha256": "a5bc4026248bc6698ea9c0e895b4fc1b9ab9a9f4c96c3a411345a62fdd5773c8",
+        "crc32": "d8798a2e"
+      },
+      "macos_checksums": {
+        "qr": "1xe4z7",
+        "md5": "ab6d0f7e62c5aa74a07212af1386e8d0",
+        "sha256": "a5bc4026248bc6698ea9c0e895b4fc1b9ab9a9f4c96c3a411345a62fdd5773c8",
+        "crc32": "d8798a2e"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part032",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "765e142b",
+        "md5": "46a530177f75ebde5b4d349136cdfc0f",
+        "sha256": "b8cb0e8a0931b3b520b372c6e98862412e2d6f7877adc8da6b5c2642ffbd7e58",
+        "crc32": "51c75115"
+      },
+      "macos_checksums": {
+        "qr": "1iki4c",
+        "md5": "46a530177f75ebde5b4d349136cdfc0f",
+        "sha256": "b8cb0e8a0931b3b520b372c6e98862412e2d6f7877adc8da6b5c2642ffbd7e58",
+        "crc32": "51c75115"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part033",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "537496e6",
+        "md5": "25679115a38f94fedaa66c901a992738",
+        "sha256": "18f4a1781bfe7d1e8646565ea2f430388cdb4e0ee6af58f28700d22472cc1ee3",
+        "crc32": "56046201"
+      },
+      "macos_checksums": {
+        "qr": "ks7s1x",
+        "md5": "25679115a38f94fedaa66c901a992738",
+        "sha256": "18f4a1781bfe7d1e8646565ea2f430388cdb4e0ee6af58f28700d22472cc1ee3",
+        "crc32": "56046201"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part034",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "e62b3a5a",
+        "md5": "420276e80b6ac8dea91c9c838423505e",
+        "sha256": "ac4afffd650f3938ccc072fa6ad53c18fd311d66f5350de0d095847a9ae2c961",
+        "crc32": "49acfb3f"
+      },
+      "macos_checksums": {
+        "qr": "128w2i1",
+        "md5": "420276e80b6ac8dea91c9c838423505e",
+        "sha256": "ac4afffd650f3938ccc072fa6ad53c18fd311d66f5350de0d095847a9ae2c961",
+        "crc32": "49acfb3f"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part035",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "774c4e38",
+        "md5": "9ebcc5ab62829b09585dd75a41020b5d",
+        "sha256": "cac4d4c2614705678e19217390d1acf6062bee96559cdbb136ec59f408247fb9",
+        "crc32": "02783205"
+      },
+      "macos_checksums": {
+        "qr": "uc98ph",
+        "md5": "9ebcc5ab62829b09585dd75a41020b5d",
+        "sha256": "cac4d4c2614705678e19217390d1acf6062bee96559cdbb136ec59f408247fb9",
+        "crc32": "02783205"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part036",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "48b6edd3",
+        "md5": "a0e155bd494c7c940abd48a43f4e8a59",
+        "sha256": "2c33eae580d0201bee69300b3948942a2e41ccdde287d1250be78a6bf1e3363b",
+        "crc32": "c86fa374"
+      },
+      "macos_checksums": {
+        "qr": "1s4t0jy",
+        "md5": "a0e155bd494c7c940abd48a43f4e8a59",
+        "sha256": "2c33eae580d0201bee69300b3948942a2e41ccdde287d1250be78a6bf1e3363b",
+        "crc32": "c86fa374"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part037",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "5a6eb034",
+        "md5": "a79332a98a18aa8a8fb8ed34d7bd3d6f",
+        "sha256": "6fe60374c2e56e7123c1a968c5cb4ad53d0878d85b06cc2c2bd61a45078eb7e0",
+        "crc32": "70f29428"
+      },
+      "macos_checksums": {
+        "qr": "zpm77j",
+        "md5": "a79332a98a18aa8a8fb8ed34d7bd3d6f",
+        "sha256": "6fe60374c2e56e7123c1a968c5cb4ad53d0878d85b06cc2c2bd61a45078eb7e0",
+        "crc32": "70f29428"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part038",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "43a4a7f6",
+        "md5": "e6efbd1289e5e66945232b481fe07568",
+        "sha256": "f0d44bf176a44c53d238cb8ac72b4a4b36c5d6bdad7f91c2da8f7b0a7cd1fff8",
+        "crc32": "98f04f1f"
+      },
+      "macos_checksums": {
+        "qr": "7te70j",
+        "md5": "e6efbd1289e5e66945232b481fe07568",
+        "sha256": "f0d44bf176a44c53d238cb8ac72b4a4b36c5d6bdad7f91c2da8f7b0a7cd1fff8",
+        "crc32": "98f04f1f"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part039",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "4f6f81cb",
+        "md5": "dce9aad1c333ea50374025f7f63befa2",
+        "sha256": "e6f7d6b5cd7bab10b583bbf01febab6677ae72a0fb2c562db4074b0bfe764e86",
+        "crc32": "217433b8"
+      },
+      "macos_checksums": {
+        "qr": "ts68j2",
+        "md5": "dce9aad1c333ea50374025f7f63befa2",
+        "sha256": "e6f7d6b5cd7bab10b583bbf01febab6677ae72a0fb2c562db4074b0bfe764e86",
+        "crc32": "217433b8"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part040",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "2947d90a",
+        "md5": "0125b4d3bc34137b50942c54d221fbd7",
+        "sha256": "9832b13ea679b5a65f83dd78670b9eba8933aca967ba130f43f8c8591b148866",
+        "crc32": "09a6eddc"
+      },
+      "macos_checksums": {
+        "qr": "1z08op7",
+        "md5": "0125b4d3bc34137b50942c54d221fbd7",
+        "sha256": "9832b13ea679b5a65f83dd78670b9eba8933aca967ba130f43f8c8591b148866",
+        "crc32": "09a6eddc"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part041",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "bee6cc2b",
+        "md5": "8ef1d803f60023620f5f00a52cee9137",
+        "sha256": "20724a0acefb2d32daee509e731138722e09c1ecc6a824c92faee06617004322",
+        "crc32": "a040ed0a"
+      },
+      "macos_checksums": {
+        "qr": "1p7gnti",
+        "md5": "8ef1d803f60023620f5f00a52cee9137",
+        "sha256": "20724a0acefb2d32daee509e731138722e09c1ecc6a824c92faee06617004322",
+        "crc32": "a040ed0a"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part042",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "fe423815",
+        "md5": "b1f33db8e0eb6af47dc5d5d0977cec91",
+        "sha256": "eff17e3afe3e7998927a391bb4145981249620672cefcc68dd69e27a4e9b4e1e",
+        "crc32": "094d42aa"
+      },
+      "macos_checksums": {
+        "qr": "12ek2pg",
+        "md5": "b1f33db8e0eb6af47dc5d5d0977cec91",
+        "sha256": "eff17e3afe3e7998927a391bb4145981249620672cefcc68dd69e27a4e9b4e1e",
+        "crc32": "094d42aa"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part043",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "1df0fdb6",
+        "md5": "3278cd0efc9aa01dbf19cb57a38b9946",
+        "sha256": "c630753a0f627fd4293bbadf022b06d3956bfeb26ed71e507bc45fa226bcb504",
+        "crc32": "1170097c"
+      },
+      "macos_checksums": {
+        "qr": "wr09bt",
+        "md5": "3278cd0efc9aa01dbf19cb57a38b9946",
+        "sha256": "c630753a0f627fd4293bbadf022b06d3956bfeb26ed71e507bc45fa226bcb504",
+        "crc32": "1170097c"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part044",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "3b17494f",
+        "md5": "b7f5beff5baa7d00a1b58ef9226fcf61",
+        "sha256": "a5a2584be02101609fd7802dcc36ac6ab433e3af5bc011a60334b159db0fee87",
+        "crc32": "11e1537d"
+      },
+      "macos_checksums": {
+        "qr": "gkljf0",
+        "md5": "b7f5beff5baa7d00a1b58ef9226fcf61",
+        "sha256": "a5a2584be02101609fd7802dcc36ac6ab433e3af5bc011a60334b159db0fee87",
+        "crc32": "11e1537d"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part045",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "c9656ad6",
+        "md5": "ca7949f2cdf5c2a729e75a3cfb00f084",
+        "sha256": "a5d802f7078250cffce864df7c14e31d78cd3567dac8c5acec0c3af56b25fdcc",
+        "crc32": "ef0e483b"
+      },
+      "macos_checksums": {
+        "qr": "jmv6k3",
+        "md5": "ca7949f2cdf5c2a729e75a3cfb00f084",
+        "sha256": "a5d802f7078250cffce864df7c14e31d78cd3567dac8c5acec0c3af56b25fdcc",
+        "crc32": "ef0e483b"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part046",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "add8aaec",
+        "md5": "53546db01bb7ad0e708c24e59a87d5d4",
+        "sha256": "ef982ec06cadef970b29ee160ee7430d50642bc37f0c7abe5e824b4460be83a5",
+        "crc32": "2a041b76"
+      },
+      "macos_checksums": {
+        "qr": "yscdj",
+        "md5": "53546db01bb7ad0e708c24e59a87d5d4",
+        "sha256": "ef982ec06cadef970b29ee160ee7430d50642bc37f0c7abe5e824b4460be83a5",
+        "crc32": "2a041b76"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part047",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "bf64b51a",
+        "md5": "a948b0a8b27e3fc1c34811cbcb4284d5",
+        "sha256": "17de66146aa2826d99747c92ece32f7813e1577b6576a6f285058a45eefc1812",
+        "crc32": "cfcbc277"
+      },
+      "macos_checksums": {
+        "qr": "1uyvhw9",
+        "md5": "a948b0a8b27e3fc1c34811cbcb4284d5",
+        "sha256": "17de66146aa2826d99747c92ece32f7813e1577b6576a6f285058a45eefc1812",
+        "crc32": "cfcbc277"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part048",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "972167c3",
+        "md5": "ee1d58f444cc82ea71997c65383deede",
+        "sha256": "6681008ba320065594576c5e44ffcde68f829cf36167b0d37d44733ce2dbd9d7",
+        "crc32": "6d38eda5"
+      },
+      "macos_checksums": {
+        "qr": "1tuvi5y",
+        "md5": "ee1d58f444cc82ea71997c65383deede",
+        "sha256": "6681008ba320065594576c5e44ffcde68f829cf36167b0d37d44733ce2dbd9d7",
+        "crc32": "6d38eda5"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part049",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "593b41b3",
+        "md5": "394a2936c6a383057337bebb24ec56f0",
+        "sha256": "13b5cd1fc1bc6ecff7b78b022a7fb5bceed377de01c698e7ccb3f5cf4763c9f5",
+        "crc32": "95654f6b"
+      },
+      "macos_checksums": {
+        "qr": "1891x7e",
+        "md5": "394a2936c6a383057337bebb24ec56f0",
+        "sha256": "13b5cd1fc1bc6ecff7b78b022a7fb5bceed377de01c698e7ccb3f5cf4763c9f5",
+        "crc32": "95654f6b"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part050",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "309183cf",
+        "md5": "94c75d608d0d2794b059fc900f16506a",
+        "sha256": "7de072b3c2ce7ea6cef95855f2bac267130ad02b89249c142110cb0407071d94",
+        "crc32": "e51c6ba4"
+      },
+      "macos_checksums": {
+        "qr": "13iuh4",
+        "md5": "94c75d608d0d2794b059fc900f16506a",
+        "sha256": "7de072b3c2ce7ea6cef95855f2bac267130ad02b89249c142110cb0407071d94",
+        "crc32": "e51c6ba4"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part051",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "bf0eb509",
+        "md5": "f71782c6ff22b9a6d63ba5019389bf86",
+        "sha256": "02f291abee25b4eea0a4bdbba3b47ba834fdf6041bdd6338aebdf534c5686fe5",
+        "crc32": "bd35e661"
+      },
+      "macos_checksums": {
+        "qr": "ecztli",
+        "md5": "f71782c6ff22b9a6d63ba5019389bf86",
+        "sha256": "02f291abee25b4eea0a4bdbba3b47ba834fdf6041bdd6338aebdf534c5686fe5",
+        "crc32": "bd35e661"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part052",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "50bf5a5a",
+        "md5": "d1e0eee673ae26a0d5df432127c448ab",
+        "sha256": "2208075d49a4db60daa19d7ec5297818eca435eb75ffb35d1759711f748a191f",
+        "crc32": "d9e3dc6f"
+      },
+      "macos_checksums": {
+        "qr": "3sdvpp",
+        "md5": "d1e0eee673ae26a0d5df432127c448ab",
+        "sha256": "2208075d49a4db60daa19d7ec5297818eca435eb75ffb35d1759711f748a191f",
+        "crc32": "d9e3dc6f"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part053",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "223b76e2",
+        "md5": "35bd89f9801cb99c6c8c8e1b648f940e",
+        "sha256": "2742eb189ab6fc1919fa42977b44b3a5e236bfde2302c81f668ec687b1829db8",
+        "crc32": "0d47521a"
+      },
+      "macos_checksums": {
+        "qr": "1i8otxt",
+        "md5": "35bd89f9801cb99c6c8c8e1b648f940e",
+        "sha256": "2742eb189ab6fc1919fa42977b44b3a5e236bfde2302c81f668ec687b1829db8",
+        "crc32": "0d47521a"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part054",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "bc633cc8",
+        "md5": "9b6caa27b276e5ea35aa35c0bf88fb67",
+        "sha256": "abbae302d6f03bdd8b45304d961289384f0d0776f1d9e205ab8d4c5b1e9c1ce1",
+        "crc32": "ea96aefb"
+      },
+      "macos_checksums": {
+        "qr": "1qxj74j",
+        "md5": "9b6caa27b276e5ea35aa35c0bf88fb67",
+        "sha256": "abbae302d6f03bdd8b45304d961289384f0d0776f1d9e205ab8d4c5b1e9c1ce1",
+        "crc32": "ea96aefb"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part055",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "52b39c4a",
+        "md5": "46b48622b701f603d6ef778c54949e68",
+        "sha256": "a08a4b735d79ab3db7103b4bd26801284fc095cb95df072cd42e0068a1d5a721",
+        "crc32": "5e03b884"
+      },
+      "macos_checksums": {
+        "qr": "1gktly5",
+        "md5": "46b48622b701f603d6ef778c54949e68",
+        "sha256": "a08a4b735d79ab3db7103b4bd26801284fc095cb95df072cd42e0068a1d5a721",
+        "crc32": "5e03b884"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part056",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "98b84219",
+        "md5": "e55565240b527c5113a9f318f7949369",
+        "sha256": "3864c7829dd8e4ee9907a17d40e4d305b9e5d4e6873a1235048b964eb4107f76",
+        "crc32": "6963dd2b"
+      },
+      "macos_checksums": {
+        "qr": "1sy8ne",
+        "md5": "e55565240b527c5113a9f318f7949369",
+        "sha256": "3864c7829dd8e4ee9907a17d40e4d305b9e5d4e6873a1235048b964eb4107f76",
+        "crc32": "6963dd2b"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part057",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "e2219ac5",
+        "md5": "debd92d561a1e28b6ff2164131dccda8",
+        "sha256": "670cfe0468a7547086c3757f66800d5a54cfc7841f545436e41d517ac94dbb19",
+        "crc32": "aaa2be96"
+      },
+      "macos_checksums": {
+        "qr": "1ko42t2",
+        "md5": "debd92d561a1e28b6ff2164131dccda8",
+        "sha256": "670cfe0468a7547086c3757f66800d5a54cfc7841f545436e41d517ac94dbb19",
+        "crc32": "aaa2be96"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part058",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "ea3592c1",
+        "md5": "dfd9cf6de6b02c7b4b16665853cc6a81",
+        "sha256": "8880671ec272eb3698077a6a30ff9b1576e6fcba773d5785a546b3135ce964f8",
+        "crc32": "b09ff9aa"
+      },
+      "macos_checksums": {
+        "qr": "1x7eudg",
+        "md5": "dfd9cf6de6b02c7b4b16665853cc6a81",
+        "sha256": "8880671ec272eb3698077a6a30ff9b1576e6fcba773d5785a546b3135ce964f8",
+        "crc32": "b09ff9aa"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part059",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "9d57ccc3",
+        "md5": "7fbc52e3199f03e6a9be383aa93dc2bd",
+        "sha256": "3e2f43ed7f5a92c5b40f44e5f8954b6af67ce934b84965af89176be6ece5eb5a",
+        "crc32": "a31380fb"
+      },
+      "macos_checksums": {
+        "qr": "sbvh7g",
+        "md5": "7fbc52e3199f03e6a9be383aa93dc2bd",
+        "sha256": "3e2f43ed7f5a92c5b40f44e5f8954b6af67ce934b84965af89176be6ece5eb5a",
+        "crc32": "a31380fb"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part060",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "f878cb4b",
+        "md5": "b896ca8e82cdcae9f319aca864724e3a",
+        "sha256": "62e32a85884a86c23eceff035d0955cec4866941286b5b0e524573c4d9d64e47",
+        "crc32": "ca1780a4"
+      },
+      "macos_checksums": {
+        "qr": "90oznc",
+        "md5": "b896ca8e82cdcae9f319aca864724e3a",
+        "sha256": "62e32a85884a86c23eceff035d0955cec4866941286b5b0e524573c4d9d64e47",
+        "crc32": "ca1780a4"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part061",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "611be896",
+        "md5": "e08cc3a21544ab080036366920c0e021",
+        "sha256": "4ceb8c10d84ddf25284a23b3b771dfcd62ffb11aa3ccacd988f08a7df215920d",
+        "crc32": "bca579ef"
+      },
+      "macos_checksums": {
+        "qr": "dzzekj",
+        "md5": "e08cc3a21544ab080036366920c0e021",
+        "sha256": "4ceb8c10d84ddf25284a23b3b771dfcd62ffb11aa3ccacd988f08a7df215920d",
+        "crc32": "bca579ef"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part062",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "57ba9c03",
+        "md5": "ad3ead91dc3bae0aad719ffce068eb1b",
+        "sha256": "f73f12b07135176cf9232ebce5a6f00ab5ec43c5d5f2f40774eaf2e4a880a1c3",
+        "crc32": "fbc1557c"
+      },
+      "macos_checksums": {
+        "qr": "sqbus2",
+        "md5": "ad3ead91dc3bae0aad719ffce068eb1b",
+        "sha256": "f73f12b07135176cf9232ebce5a6f00ab5ec43c5d5f2f40774eaf2e4a880a1c3",
+        "crc32": "fbc1557c"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part063",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "9a52e9b0",
+        "md5": "5ffed1c6b2b5319aebf80eabc75463e5",
+        "sha256": "65ed00a79ce65d0ce041ecfe6047b6530245b1da4952c8114fc1623bee502e40",
+        "crc32": "a3d60830"
+      },
+      "macos_checksums": {
+        "qr": "1px0w6f",
+        "md5": "5ffed1c6b2b5319aebf80eabc75463e5",
+        "sha256": "65ed00a79ce65d0ce041ecfe6047b6530245b1da4952c8114fc1623bee502e40",
+        "crc32": "a3d60830"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part064",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "11733cf3",
+        "md5": "0552299bb31692e52f6e2d1945aeeb39",
+        "sha256": "595eb00ade2c6a0c47a24fe9ac82a1941c9d6f627069ceae911c7dc77190dd71",
+        "crc32": "b2dc37cf"
+      },
+      "macos_checksums": {
+        "qr": "e6279m",
+        "md5": "0552299bb31692e52f6e2d1945aeeb39",
+        "sha256": "595eb00ade2c6a0c47a24fe9ac82a1941c9d6f627069ceae911c7dc77190dd71",
+        "crc32": "b2dc37cf"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part065",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "3e59dae1",
+        "md5": "e5df069d5c8b7c5dbd65929a6830c307",
+        "sha256": "f805c3e15bdc39b0259d30b411903c9cbca09f41b9cb41b20493f74fb4e4829e",
+        "crc32": "dc9a8f6c"
+      },
+      "macos_checksums": {
+        "qr": "i5bfia",
+        "md5": "e5df069d5c8b7c5dbd65929a6830c307",
+        "sha256": "f805c3e15bdc39b0259d30b411903c9cbca09f41b9cb41b20493f74fb4e4829e",
+        "crc32": "dc9a8f6c"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part066",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "4c889b6f",
+        "md5": "0c3c632c10552bf7fbd834a027585869",
+        "sha256": "44a4dda1a16993f32062196329bca0c3d4958562f3a6de667f0e2f9aa8b4218a",
+        "crc32": "27ff705a"
+      },
+      "macos_checksums": {
+        "qr": "ktf8i0",
+        "md5": "0c3c632c10552bf7fbd834a027585869",
+        "sha256": "44a4dda1a16993f32062196329bca0c3d4958562f3a6de667f0e2f9aa8b4218a",
+        "crc32": "27ff705a"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part067",
+      "size": 102400,
+      "windows_checksums": {
+        "qr": "be18e8b7",
+        "md5": "872259f51d32e539becc24f85aa9ebb3",
+        "sha256": "67112815b4098fd121fccf5160a6b15b72a00676c2ef689a7460ef600e9d5925",
+        "crc32": "635a0058"
+      },
+      "macos_checksums": {
+        "qr": "ucdczc",
+        "md5": "872259f51d32e539becc24f85aa9ebb3",
+        "sha256": "67112815b4098fd121fccf5160a6b15b72a00676c2ef689a7460ef600e9d5925",
+        "crc32": "635a0058"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    },
+    {
+      "part": "cc.7z.part068",
+      "size": 92941,
+      "windows_checksums": {
+        "qr": "640b8134",
+        "md5": "ca0b226f3e1428734cd4441738f34b7a",
+        "sha256": "5c34e9e5407e28a0a4eb1705f674fadc6666d0a441c2dd7f3af2c303d6f9e8a5",
+        "crc32": "c4bf6b20"
+      },
+      "macos_checksums": {
+        "qr": "p5d9q5",
+        "md5": "ca0b226f3e1428734cd4441738f34b7a",
+        "sha256": "5c34e9e5407e28a0a4eb1705f674fadc6666d0a441c2dd7f3af2c303d6f9e8a5",
+        "crc32": "c4bf6b20"
+      },
+      "failed_checks": [
+        "qr_checksum_old",
+        "qr_checksum_fnv1a"
+      ]
+    }
+  ],
+  "size_mismatches": [],
+  "identical_files": []
+}
